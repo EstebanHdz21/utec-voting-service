@@ -1,7 +1,6 @@
 C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\EN\bin\Debug\netstandard2.0\EN.deps.json
 C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\EN\bin\Debug\netstandard2.0\EN.dll
 C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\EN\bin\Debug\netstandard2.0\EN.pdb
-C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\EN\obj\Debug\netstandard2.0\EN.csprojAssemblyReference.cache
 C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\EN\obj\Debug\netstandard2.0\EN.AssemblyInfoInputs.cache
 C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\EN\obj\Debug\netstandard2.0\EN.AssemblyInfo.cs
 C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\EN\obj\Debug\netstandard2.0\EN.csproj.CoreCompileInputs.cache

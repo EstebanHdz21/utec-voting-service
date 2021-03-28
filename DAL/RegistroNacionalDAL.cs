@@ -2,33 +2,28 @@
 using EN;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Data.SqlClient;
 using System.Text;
 
 namespace BL
 {
-    class RegistroNacionalDAL
+    public class RegistroNacionalDAL
     {
 
-        SqlConnection conn = new Connection().getConnection();
-        public RegistroNacional getAll() {
-            RegistroNacional registroNacional = null;
+        SqlConnection conn = null;
+        public List<RegistroNacional> getAll() {
+            List< RegistroNacional> registroNacional = null;
             try{
-
-                SqlCommand command = new SqlCommand("Select * from registro_nacional", conn);
-                command.Parameters.AddWithValue("@zip", "india");
-                // int result = command.ExecuteNonQuery();
-                using (SqlDataReader reader = command.ExecuteReader())
-                {
-                    if (reader.Read())
-                    {
-                        Console.WriteLine(String.Format("{0}", reader["id"]));
-                    }
-                }
-
+                conn = new Connection().getConnection();
+                SqlCommand SqlCmd = new SqlCommand();
+                SqlCmd.Connection = conn;
+                SqlCmd.CommandText = "get_registroNacional";
+                SqlCmd.CommandType = CommandType.StoredProcedure;
+                Console.WriteLine("get_registroNacional");
             }
             catch (Exception e){
-
+                Console.WriteLine(e.Message);
             }
             finally {
                 conn.Close(); 

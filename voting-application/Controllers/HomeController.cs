@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using BL;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
@@ -20,8 +21,8 @@ namespace voting_application.Controllers
 
         public IActionResult Index()
         {
-            RegistroNecionalDal registroNacional = new RegistroNacionalDAL();
-
+            RegistroNacionalBL registroNacional = new RegistroNacionalBL();
+            registroNacional.getAll();
 
             return View();
         }

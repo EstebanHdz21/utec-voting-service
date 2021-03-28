@@ -8,7 +8,7 @@ namespace DAL
 {
     public class Connection
     {
-        private SqlConnection conn = new SqlConnection("DESKTOP-0JJ49UO\\carlo;DataBase= votacionesdb;Integrated Security=true");
+        private SqlConnection conn = new SqlConnection("Data Source=DESKTOP-0JJ49UO\\SQLEXPRESS;Initial Catalog=votacionesdb;Integrated Security=True");
 
         public SqlConnection getConnection()
         {

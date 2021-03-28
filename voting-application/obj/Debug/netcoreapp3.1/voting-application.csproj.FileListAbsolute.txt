@@ -72,3 +72,15 @@ C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service
 C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.pdb
 C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.genruntimeconfig.cache
 C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.csproj.CopyComplete
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\bin\Debug\netcoreapp3.1\EN.dll
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\bin\Debug\netcoreapp3.1\EN.pdb

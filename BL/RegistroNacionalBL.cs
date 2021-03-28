@@ -10,9 +10,9 @@ namespace BL
     {
 
         public RegistroNacional getAll() {
-            RegistroNacionalBL registroNacional = new RegistroNacionalBL();
-            RegistroNacional dto = registroNacional.getAll();
-            return dto;
+            RegistroNacionalDAL registroNacional = new RegistroNacionalDAL();
+            List<RegistroNacional> dto = registroNacional.getAll();
+            return null;
         }
 
     }
