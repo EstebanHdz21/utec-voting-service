@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\HTC\\.nuget\\packages\\": {}
+    "C:\\Users\\carlo\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HTC\\Desktop\\sd\\UTEC\\Progra II\\utec-voting-service\\voting-application\\voting-application.csproj",
+      "projectUniqueName": "C:\\Users\\carlo\\Documents\\00001A-UTEC\\AÑO II\\Programación 2\\utec-voting-service\\voting-application\\voting-application.csproj",
       "projectName": "voting-application",
-      "projectPath": "C:\\Users\\HTC\\Desktop\\sd\\UTEC\\Progra II\\utec-voting-service\\voting-application\\voting-application.csproj",
-      "packagesPath": "C:\\Users\\HTC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HTC\\Desktop\\sd\\UTEC\\Progra II\\utec-voting-service\\voting-application\\obj\\",
+      "projectPath": "C:\\Users\\carlo\\Documents\\00001A-UTEC\\AÑO II\\Programación 2\\utec-voting-service\\voting-application\\voting-application.csproj",
+      "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\carlo\\Documents\\00001A-UTEC\\AÑO II\\Programación 2\\utec-voting-service\\voting-application\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\HTC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -35,3 +35,40 @@ C:\Users\HTC\Desktop\sd\UTEC\Progra II\utec-voting-service\voting-application\ob
 C:\Users\HTC\Desktop\sd\UTEC\Progra II\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.pdb
 C:\Users\HTC\Desktop\sd\UTEC\Progra II\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.genruntimeconfig.cache
 C:\Users\HTC\Desktop\sd\UTEC\Progra II\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.csproj.CopyComplete
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\bin\Debug\netcoreapp3.1\voting-application.exe
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\bin\Debug\netcoreapp3.1\voting-application.deps.json
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\bin\Debug\netcoreapp3.1\voting-application.runtimeconfig.json
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\bin\Debug\netcoreapp3.1\voting-application.runtimeconfig.dev.json
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\bin\Debug\netcoreapp3.1\voting-application.dll
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\bin\Debug\netcoreapp3.1\voting-application.pdb
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\bin\Debug\netcoreapp3.1\voting-application.Views.dll
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\bin\Debug\netcoreapp3.1\voting-application.Views.pdb
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.csprojAssemblyReference.cache
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.AssemblyInfoInputs.cache
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.AssemblyInfo.cs
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.RazorAssemblyInfo.cache
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.RazorAssemblyInfo.cs
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\staticwebassets\voting-application.StaticWebAssets.Manifest.cache
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\staticwebassets\voting-application.StaticWebAssets.xml
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\scopedcss\bundle\voting-application.styles.css
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.TagHelpers.input.cache
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.TagHelpers.output.cache
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.RazorCoreGenerate.cache
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.RazorTargetAssemblyInfo.cache
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.RazorTargetAssemblyInfo.cs
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.Views.pdb
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.dll
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.pdb
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.genruntimeconfig.cache
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\voting-application\obj\Debug\netcoreapp3.1\voting-application.csproj.CopyComplete
