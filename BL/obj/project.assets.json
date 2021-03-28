@@ -135,6 +135,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "EN": "1.0.0",
           "System.Data.SqlClient": "4.8.2"
         },
         "compile": {
@@ -142,6 +143,16 @@
         },
         "runtime": {
           "bin/placeholder/DAL.dll": {}
+        }
+      },
+      "EN/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/EN.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EN.dll": {}
         }
       }
     }
@@ -461,11 +472,17 @@
       "type": "project",
       "path": "../DAL/DAL.csproj",
       "msbuildProject": "../DAL/DAL.csproj"
+    },
+    "EN/1.0.0": {
+      "type": "project",
+      "path": "../EN/EN.csproj",
+      "msbuildProject": "../EN/EN.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "DAL >= 1.0.0"
+      "DAL >= 1.0.0",
+      "EN >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -501,6 +518,9 @@
           "projectReferences": {
             "C:\\Users\\carlo\\Documents\\00001A-UTEC\\AÑO II\\Programación 2\\utec-voting-service\\DAL\\DAL.csproj": {
               "projectPath": "C:\\Users\\carlo\\Documents\\00001A-UTEC\\AÑO II\\Programación 2\\utec-voting-service\\DAL\\DAL.csproj"
+            },
+            "C:\\Users\\carlo\\Documents\\00001A-UTEC\\AÑO II\\Programación 2\\utec-voting-service\\EN\\EN.csproj": {
+              "projectPath": "C:\\Users\\carlo\\Documents\\00001A-UTEC\\AÑO II\\Programación 2\\utec-voting-service\\EN\\EN.csproj"
             }
           }
         }
