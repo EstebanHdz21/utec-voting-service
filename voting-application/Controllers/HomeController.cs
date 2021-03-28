@@ -20,6 +20,9 @@ namespace voting_application.Controllers
 
         public IActionResult Index()
         {
+            RegistroNecionalDal registroNacional = new RegistroNacionalDAL();
+
+
             return View();
         }
 

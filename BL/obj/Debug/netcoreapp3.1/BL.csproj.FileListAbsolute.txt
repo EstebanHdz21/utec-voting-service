@@ -10,3 +10,5 @@ C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service
 C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
 C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\BL\obj\Debug\netcoreapp3.1\BL.dll
 C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\BL\obj\Debug\netcoreapp3.1\BL.pdb
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\BL\bin\Debug\netcoreapp3.1\EN.dll
+C:\Users\carlo\Documents\00001A-UTEC\AÑO II\Programación 2\utec-voting-service\BL\bin\Debug\netcoreapp3.1\EN.pdb

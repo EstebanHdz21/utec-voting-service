@@ -15,8 +15,5 @@ namespace BL
             return dto;
         }
 
-
-
-
     }
 }
