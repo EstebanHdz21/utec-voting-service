@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlo\\Documents\\00001A-UTEC\\AÑO II\\Programación 2\\utec-voting-service\\DAL\\DAL.csproj": {}
+    "C:\\Users\\carlo\\Documents\\00001A-UTEC\\AÑO II\\Programación 2\\utec-voting-service\\EN\\EN.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlo\\Documents\\00001A-UTEC\\AÑO II\\Programación 2\\utec-voting-service\\DAL\\DAL.csproj": {
+    "C:\\Users\\carlo\\Documents\\00001A-UTEC\\AÑO II\\Programación 2\\utec-voting-service\\EN\\EN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlo\\Documents\\00001A-UTEC\\AÑO II\\Programación 2\\utec-voting-service\\DAL\\DAL.csproj",
-        "projectName": "DAL",
-        "projectPath": "C:\\Users\\carlo\\Documents\\00001A-UTEC\\AÑO II\\Programación 2\\utec-voting-service\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\carlo\\Documents\\00001A-UTEC\\AÑO II\\Programación 2\\utec-voting-service\\EN\\EN.csproj",
+        "projectName": "EN",
+        "projectPath": "C:\\Users\\carlo\\Documents\\00001A-UTEC\\AÑO II\\Programación 2\\utec-voting-service\\EN\\EN.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlo\\Documents\\00001A-UTEC\\AÑO II\\Programación 2\\utec-voting-service\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\carlo\\Documents\\00001A-UTEC\\AÑO II\\Programación 2\\utec-voting-service\\EN\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -48,10 +48,6 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
-            },
-            "System.Data.SqlClient": {
-              "target": "Package",
-              "version": "[4.8.2, )"
             }
           },
           "imports": [

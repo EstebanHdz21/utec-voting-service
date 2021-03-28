@@ -5,9 +5,13 @@ using System.Text;
 
 namespace BL
 {
-    class RegistroNacionalDAL
+    public class RegistroNacionalBL
     {
-        Connection conn = new Connection();
+       
+
+
+
+         
 
     }
 }

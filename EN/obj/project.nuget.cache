@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WwdwrvO41+Rq2SYzSNzQXO+zACC8+pJimjz2/wcNqtR0N+QnIuOyLryUk2opVu2XYyKCC7DUMjhjCzo0ANL7Mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carlo\\Documents\\00001A-UTEC\\AÑO II\\Programación 2\\utec-voting-service\\EN\\EN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
